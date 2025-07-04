@@ -121,7 +121,7 @@
     box-sizing: border-box;
 }
 .news_sec_set_img {
-    background-image: url(./../IMG/new_img2.jpeg);
+    background-image: url(./../img/new_img2.jpeg);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@
 }
 
 .news_sec_set_img1 {
-    background-image: url(./../IMG/news_img3.jpg);
+    background-image: url(./../img/news_img3.jpg);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@
 }
 
 .news_sec_set_img2 {
-    background-image: url(./../IMG/news_img5.jpg);
+    background-image: url(./../img/news_img5.jpg);
     background-size: 100%;
     background-position: center;
     border-radius: 12px;
